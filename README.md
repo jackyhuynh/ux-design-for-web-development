@@ -1,4 +1,4 @@
 # UX-Design
 
 ## Introduction
-In troduction to UX Design, researches, use-cases
+Introduction to UX Design, researches, use-cases for web development
